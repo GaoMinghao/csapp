@@ -1,0 +1,3 @@
+/Users/minghao/OneDrive/计算机/计算机基础知识/操作系统/CSAPP/Practice/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/minghao/OneDrive/计算机/计算机基础知识/操作系统/CSAPP/Practice/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/minghao/OneDrive/计算机/计算机基础知识/操作系统/CSAPP/Practice/cmake-build-debug/CMakeFiles/Practice.dir
